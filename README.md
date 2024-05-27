@@ -1,4 +1,20 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ## 🌎😃
+
+**sou aluno josé,**aqui_vou_postar_**alguns**dos meus projetos realizados durante as aulas
+
+## Meu contato **FaceBook**_jose Oliveira 
+
+                                                                                                                                                                                
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **josehlopesoli/josehlopesoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
